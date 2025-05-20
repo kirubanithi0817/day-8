@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int power(int base, int exponent) {
     int result = 1;
 
